@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000C40,30:1a237e,65:1565C0,100:000C40&height=240&section=header&text=Kathari%20Hima%20Kishore&fontSize=46&fontColor=E3F2FD&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Cloud%20Developer&descAlignY=60&descSize=20&descColor=90CAF9" width="100%" alt="Kathari Hima Kishore - Full-Stack Cloud Developer"/>
 
 <!-- ████████████████ TYPING ANIMATION ████████████████ -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=600&color=4169E1&center=true&vCenter=true&width=780&lines=Hey!+I%27m+Kathari+Hima+Kishore;A+Full-Stack+Cloud+Developer;Building+real-world+solutions+with+optimal+approach;React+%7C+Next.js+%7C+Node.js+%7C+Flask+%7C+Azure;Open+to+collaborate;Always+learning%2C+always+delivering" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=600&color=4169E1&center=true&vCenter=true&width=780&lines=Hey!+I%27m+Kathari+Hima+Kishore;A+Full-Stack+Cloud+Developer;Building+real-world+solutions+with+optimal+approach;React+%7C+Next.js+%7C+Node.js+%7C+Azure+%7C+Firebase+%7C+Docker;Open+to+collaborate;Learning%2C+always+delivering" alt="Typing SVG"/>
 
 <br/><br>
 
