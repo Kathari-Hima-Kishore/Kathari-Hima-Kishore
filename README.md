@@ -45,41 +45,28 @@
 <br/>
 
 <div align="center">
-<table>
-<tr>
-<td width="50%" valign="top" align="center">
+
+<!-- ══════════════════════ PROJECT 1 — PORTFOLIO ══════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:071E3D,100:1565C0&height=100&text=🌐%20Portfolio&fontSize=32&fontColor=E3F2FD&desc=Next.js+%7C+TypeScript+%7C+GSAP+%7C+Tailwind&descSize=15&descColor=90CAF9&descAlignY=72&fontAlignY=40" width="680" alt="Portfolio project header - Next.js, TypeScript, GSAP, Tailwind"/>
+
 <br/>
 
-<!-- PROJECT 1 — PORTFOLIO -->
-<img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind" height="55" alt="Next.js TypeScript Tailwind"/>
+<em>Immersive portfolio with <strong>3D Spline graphics</strong>, <strong>GSAP animations</strong> and SSR</em>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=36&text=Portfolio&fontSize=26&fontColor=90CAF9" width="260" alt="Portfolio"/>
+![Stars](https://img.shields.io/github/stars/Kathari-Hima-Kishore/Portfolio?style=flat-square&color=4169E1&labelColor=071E3D)&nbsp;![Language](https://img.shields.io/github/languages/top/Kathari-Hima-Kishore/Portfolio?style=flat-square&color=4169E1&labelColor=071E3D)
 
 <br/>
 
-<em>Immersive portfolio with <strong>3D Spline graphics</strong>, <strong>GSAP animations</strong> &amp; SSR</em>
+[![View Code](https://img.shields.io/badge/View_Code-071E3D?style=for-the-badge&logo=github&logoColor=90CAF9)](https://github.com/Kathari-Hima-Kishore/Portfolio)&nbsp;&nbsp;[![Live Site](https://img.shields.io/badge/Live_Site-1565C0?style=for-the-badge&logo=vercel&logoColor=fff)](https://www.kathari-hima-kishore.tech/)
 
 <br/><br/>
 
-![Stars](https://img.shields.io/github/stars/Kathari-Hima-Kishore/Portfolio?style=flat-square&color=4169E1&labelColor=0d1b5e)&nbsp;![Language](https://img.shields.io/github/languages/top/Kathari-Hima-Kishore/Portfolio?style=flat-square&color=4169E1&labelColor=0d1b5e)
+<!-- ══════════════════════ PROJECT 2 — CODEFORGE ══════════════════════ -->
 
-<br/>
-
-[![View Code](https://img.shields.io/badge/View_Code-0d1b5e?style=for-the-badge&logo=github&logoColor=90CAF9)](https://github.com/Kathari-Hima-Kishore/Portfolio)&nbsp;[![Live Site](https://img.shields.io/badge/Live_Site-1565C0?style=for-the-badge&logo=vercel&logoColor=fff)](https://www.kathari-hima-kishore.tech/)
-
-<br/>
-</td>
-<td width="50%" valign="top" align="center">
-<br/>
-
-<!-- PROJECT 2 — CODEFORGE -->
-<img src="https://skillicons.dev/icons?i=nextjs,flask,firebase" height="55" alt="Next.js Flask Firebase"/>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=36&text=CodeForge&fontSize=26&fontColor=80DEEA" width="260" alt="CodeForge"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:001A1A,100:007C91&height=100&text=⚡%20CodeForge&fontSize=32&fontColor=E0F7FA&desc=Next.js+%7C+Flask+%7C+Socket.IO+%7C+Firebase+Auth&descSize=15&descColor=80DEEA&descAlignY=72&fontAlignY=40" width="680" alt="CodeForge project header - Next.js, Flask, Socket.IO, Firebase Auth"/>
 
 <br/>
 
@@ -93,19 +80,11 @@
 
 [![View Code](https://img.shields.io/badge/View_Code-001A1A?style=for-the-badge&logo=github&logoColor=80DEEA)](https://github.com/Kathari-Hima-Kishore/CodeForge)
 
-<br/>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" align="center">
-<br/>
-
-<!-- PROJECT 3 — AR 3D VISUALIZER -->
-<img src="https://skillicons.dev/icons?i=react,nodejs,threejs" height="55" alt="React Node.js Three.js"/>
-
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=36&text=AR+3D+Visualizer&fontSize=24&fontColor=CE93D8" width="280" alt="AR 3D Visualizer"/>
+<!-- ══════════════════════ PROJECT 3 — AR 3D VISUALIZER ══════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D0026,100:6200EA&height=100&text=🥽%20AR+3D+Visualizer&fontSize=30&fontColor=EDE7F6&desc=React+%7C+Node.js+%7C+Three.js+%7C+AR.js&descSize=15&descColor=CE93D8&descAlignY=72&fontAlignY=40" width="680" alt="AR 3D Visualizer project header - React, Node.js, Three.js, AR.js"/>
 
 <br/>
 
@@ -119,17 +98,11 @@
 
 [![View Code](https://img.shields.io/badge/View_Code-0D0026?style=for-the-badge&logo=github&logoColor=CE93D8)](https://github.com/Kathari-Hima-Kishore/AR-3D-Visualizer)
 
-<br/>
-</td>
-<td width="50%" valign="top" align="center">
-<br/>
-
-<!-- PROJECT 4 — EVENT MANAGEMENT -->
-<img src="https://skillicons.dev/icons?i=js,firebase,html,css" height="55" alt="JavaScript Firebase HTML CSS"/>
-
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=36&text=Event+Management&fontSize=22&fontColor=FFAB91" width="300" alt="Event Management"/>
+<!-- ══════════════════════ PROJECT 4 — EVENT MANAGEMENT ══════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1A0500,100:BF360C&height=100&text=📅%20Event+Management&fontSize=28&fontColor=FBE9E7&desc=JavaScript+%7C+Firebase+%7C+HTML5+%7C+CSS3&descSize=15&descColor=FFAB91&descAlignY=72&fontAlignY=40" width="680" alt="Event Management project header - JavaScript, Firebase, HTML5, CSS3"/>
 
 <br/>
 
@@ -143,19 +116,11 @@
 
 [![View Code](https://img.shields.io/badge/View_Code-1A0500?style=for-the-badge&logo=github&logoColor=FFAB91)](https://github.com/Kathari-Hima-Kishore/event-management-system-with-firebase)
 
-<br/>
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-<br/>
-
-<!-- PROJECT 5 — REAL-TIME CHAT -->
-<img src="https://skillicons.dev/icons?i=nodejs,js,css" height="55" alt="Node.js JavaScript CSS"/>
-
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=36&text=Community+Chat&fontSize=26&fontColor=F48FB1" width="300" alt="Community Chat"/>
+<!-- ══════════════════════ PROJECT 5 — COMMUNITY CHAT ══════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1A0010,100:880E4F&height=100&text=💬%20Community+Chat&fontSize=30&fontColor=FCE4EC&desc=Socket.IO+%7C+Node.js+%7C+JavaScript+%7C+CSS&descSize=15&descColor=F48FB1&descAlignY=72&fontAlignY=40" width="680" alt="Community Chat project header - Socket.IO, Node.js, JavaScript, CSS"/>
 
 <br/>
 
@@ -170,12 +135,8 @@
 [![View Code](https://img.shields.io/badge/View_Code-1A0010?style=for-the-badge&logo=github&logoColor=F48FB1)](https://github.com/Kathari-Hima-Kishore/real-time-community-open-chat)
 
 <br/>
-</td>
-</tr>
-</table>
-</div>
 
-<br/>
+</div>
 
 <!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ ROYAL BLUE LINE ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000C40,50:1565C0,100:000C40&height=2" width="100%" alt=""/>
@@ -189,15 +150,15 @@
 
 <div align="center">
 
-[![Skills Row 1](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express&perline=8)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express&perline=8" alt="Skills Row 1"/>
 
 <br/>
 
-[![Skills Row 2](https://skillicons.dev/icons?i=nestjs,flask,py,mongodb,mysql,firebase,docker,kubernetes&perline=8)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=nestjs,flask,py,mongodb,mysql,firebase,docker,kubernetes&perline=8" alt="Skills Row 2"/>
 
 <br/>
 
-[![Skills Row 3](https://skillicons.dev/icons?i=git,github,azure,vercel,postman,nginx&perline=8)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=git,github,azure,vercel,postman,nginx&perline=8" alt="Skills Row 3"/>
 
 </div>
 
@@ -277,31 +238,19 @@
 
 <br/>
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Kathari-Hima-Kishore&theme=algolia&no-frame=true&no-bg=false&margin-w=15&row=1&column=7" alt="GitHub Trophies" width="100%"/>
-
-</div>
-
-<br/>
-
 <!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ ROYAL BLUE LINE ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000C40,50:1565C0,100:000C40&height=2" width="100%" alt=""/>
 
 <br/>
 
-<!-- ████████████████ CONTRIBUTION SNAKE ████████████████ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000C40,40:0d1b5e,100:000C40&height=42&text=Contribution+Snake&fontSize=17&fontColor=90CAF9&fontAlignY=68" width="100%" alt="Contribution Snake"/>
+<!-- ████████████████ CONTRIBUTION ████████████████ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000C40,40:0d1b5e,100:000C40&height=42&text=Contribution&fontSize=17&fontColor=90CAF9&fontAlignY=68" width="100%" alt="Contribution"/>
 
 <br/>
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kathari-Hima-Kishore/Kathari-Hima-Kishore/main/snake/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kathari-Hima-Kishore/Kathari-Hima-Kishore/main/snake/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Kathari-Hima-Kishore/Kathari-Hima-Kishore/main/snake/github-contribution-grid-snake-dark.svg" width="95%"/>
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kathari-Hima-Kishore&bg_color=000C40&color=90CAF9&line=4169E1&point=E3F2FD&area=true&area_color=1565C0&hide_border=false" width="95%" alt="Contribution Graph"/>
 
 </div>
 
