@@ -1,12 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hima%20Kishore%20Kathari&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hima%20Kishore%20Kathari&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Open%20Source%20Enthusiast&descAlignY=58&descSize=17" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+%F0%9F%91%8B+I'm+Hima+Kishore;Full-Stack+Web+Developer;Always+learning%2C+always+building...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&lines=Hey+there!+%F0%9F%91%8B+I'm+Hima+Kishore;Full-Stack+Web+Developer+%F0%9F%9A%80;Building+real-world+solutions+with+code+%F0%9F%92%BB;React+%7C+Next.js+%7C+Node.js+%7C+Flask;Open+to+freelance+%26+collaborations+%F0%9F%A4%9D;Always+learning%2C+always+shipping+%E2%9C%A8)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=Kathari-Hima-Kishore&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Kathari-Hima-Kishore&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+&nbsp;
+<a href="https://www.kathari-hima-kishore.tech/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Site-blueviolet?style=for-the-badge" alt="Portfolio"/>
+</a>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
 
 ---
 
@@ -21,18 +29,53 @@
 
 ---
 
-## 🌐 Connect with Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&reversal=true" width="100%"/>
+
+## 🚀 Featured Projects
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himakishorekathari@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kathari-Hima-Kishore)
+<a href="https://github.com/Kathari-Hima-Kishore/Portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kathari-Hima-Kishore&repo=Portfolio&theme=tokyonight&hide_border=true&show_owner=true" alt="Portfolio"/>
+</a>
+<a href="https://github.com/Kathari-Hima-Kishore/CodeForge">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kathari-Hima-Kishore&repo=CodeForge&theme=tokyonight&hide_border=true&show_owner=true" alt="CodeForge"/>
+</a>
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/Kathari-Hima-Kishore/AR-3D-Visualizer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kathari-Hima-Kishore&repo=AR-3D-Visualizer&theme=tokyonight&hide_border=true&show_owner=true" alt="AR-3D-Visualizer"/>
+</a>
+<a href="https://github.com/Kathari-Hima-Kishore/event-management-system-with-firebase">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kathari-Hima-Kishore&repo=event-management-system-with-firebase&theme=tokyonight&hide_border=true&show_owner=true" alt="Event Management System"/>
+</a>
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/Kathari-Hima-Kishore/real-time-community-open-chat">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kathari-Hima-Kishore&repo=real-time-community-open-chat&theme=tokyonight&hide_border=true&show_owner=true" alt="Real-Time Community Chat"/>
+</a>
 
 </div>
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
+
 ## 💻 Tech Stack
+
+<div align="center">
+
+[![My Skills — click to explore skillicons.dev](https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,nestjs,flask,py,mongodb,mysql,firebase,docker,kubernetes,git,github,azure,vercel,postman&perline=10)](https://skillicons.dev)
+
+</div>
+
+<br/>
 
 ### 🖥️ Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -73,6 +116,8 @@
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&reversal=true" width="100%"/>
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -97,9 +142,45 @@
 
 ---
 
+## 📈 Contribution Activity
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kathari-Hima-Kishore&theme=tokyo-night&hide_border=true&area=true&area_color=58A6FF" width="95%" alt="Contribution Graph"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kathari-Hima-Kishore/Kathari-Hima-Kishore/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kathari-Hima-Kishore/Kathari-Hima-Kishore/output/github-contribution-grid-snake.svg"/>
+  <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/Kathari-Hima-Kishore/Kathari-Hima-Kishore/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+</picture>
+
+</div>
+
+---
+
+## 🌐 Connect with Me
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himakishorekathari@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kathari-Hima-Kishore)
+[![Portfolio](https://img.shields.io/badge/Portfolio-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.kathari-hima-kishore.tech/)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
 
