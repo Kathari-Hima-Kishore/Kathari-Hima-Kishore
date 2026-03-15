@@ -48,7 +48,7 @@
 
 <!-- ══════════════════════ PROJECT 1 — PORTFOLIO ══════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:071E3D,100:1565C0&height=100&text=🌐%20Portfolio&fontSize=32&fontColor=E3F2FD&desc=Next.js+%7C+TypeScript+%7C+GSAP+%7C+Tailwind&descSize=15&descColor=90CAF9&descAlignY=72&fontAlignY=40" width="680" alt="Portfolio project header - Next.js, TypeScript, GSAP, Tailwind"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:071E3D,100:1565C0&height=100&text=🌐%20Portfolio&fontSize=32&fontColor=E3F2FD&desc=Next.js+%7C+TypeScript+%7C+GSAP+%7C+Tailwind&descSize=15&descColor=90CAF9&descAlignY=72&fontAlignY=40" width="680" alt="Glassmorphic gradient card header for the Portfolio project"/>
 
 <br/>
 
@@ -66,7 +66,7 @@
 
 <!-- ══════════════════════ PROJECT 2 — CODEFORGE ══════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:001A1A,100:007C91&height=100&text=⚡%20CodeForge&fontSize=32&fontColor=E0F7FA&desc=Next.js+%7C+Flask+%7C+Socket.IO+%7C+Firebase+Auth&descSize=15&descColor=80DEEA&descAlignY=72&fontAlignY=40" width="680" alt="CodeForge project header - Next.js, Flask, Socket.IO, Firebase Auth"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:001A1A,100:007C91&height=100&text=⚡%20CodeForge&fontSize=32&fontColor=E0F7FA&desc=Next.js+%7C+Flask+%7C+Socket.IO+%7C+Firebase+Auth&descSize=15&descColor=80DEEA&descAlignY=72&fontAlignY=40" width="680" alt="Glassmorphic gradient card header for the CodeForge project"/>
 
 <br/>
 
@@ -84,7 +84,7 @@
 
 <!-- ══════════════════════ PROJECT 3 — AR 3D VISUALIZER ══════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D0026,100:6200EA&height=100&text=🥽%20AR+3D+Visualizer&fontSize=30&fontColor=EDE7F6&desc=React+%7C+Node.js+%7C+Three.js+%7C+AR.js&descSize=15&descColor=CE93D8&descAlignY=72&fontAlignY=40" width="680" alt="AR 3D Visualizer project header - React, Node.js, Three.js, AR.js"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D0026,100:6200EA&height=100&text=🥽%20AR+3D+Visualizer&fontSize=30&fontColor=EDE7F6&desc=React+%7C+Node.js+%7C+Three.js+%7C+AR.js&descSize=15&descColor=CE93D8&descAlignY=72&fontAlignY=40" width="680" alt="Glassmorphic gradient card header for the AR 3D Visualizer project"/>
 
 <br/>
 
@@ -102,7 +102,7 @@
 
 <!-- ══════════════════════ PROJECT 4 — EVENT MANAGEMENT ══════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1A0500,100:BF360C&height=100&text=📅%20Event+Management&fontSize=28&fontColor=FBE9E7&desc=JavaScript+%7C+Firebase+%7C+HTML5+%7C+CSS3&descSize=15&descColor=FFAB91&descAlignY=72&fontAlignY=40" width="680" alt="Event Management project header - JavaScript, Firebase, HTML5, CSS3"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1A0500,100:BF360C&height=100&text=📅%20Event+Management&fontSize=28&fontColor=FBE9E7&desc=JavaScript+%7C+Firebase+%7C+HTML5+%7C+CSS3&descSize=15&descColor=FFAB91&descAlignY=72&fontAlignY=40" width="680" alt="Glassmorphic gradient card header for the Event Management project"/>
 
 <br/>
 
@@ -120,7 +120,7 @@
 
 <!-- ══════════════════════ PROJECT 5 — COMMUNITY CHAT ══════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1A0010,100:880E4F&height=100&text=💬%20Community+Chat&fontSize=30&fontColor=FCE4EC&desc=Socket.IO+%7C+Node.js+%7C+JavaScript+%7C+CSS&descSize=15&descColor=F48FB1&descAlignY=72&fontAlignY=40" width="680" alt="Community Chat project header - Socket.IO, Node.js, JavaScript, CSS"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1A0010,100:880E4F&height=100&text=💬%20Community+Chat&fontSize=30&fontColor=FCE4EC&desc=Socket.IO+%7C+Node.js+%7C+JavaScript+%7C+CSS&descSize=15&descColor=F48FB1&descAlignY=72&fontAlignY=40" width="680" alt="Glassmorphic gradient card header for the Community Chat project"/>
 
 <br/>
 
