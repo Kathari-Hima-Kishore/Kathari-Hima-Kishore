@@ -33,35 +33,130 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 <a href="https://github.com/Kathari-Hima-Kishore/Portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kathari-Hima-Kishore&repo=Portfolio&theme=tokyonight&hide_border=true&show_owner=true" alt="Portfolio"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=60&text=Portfolio&fontSize=26&fontColor=fff&desc=Next.js%20%7C%20Spline%203D%20%7C%20GSAP%20%7C%20Framer%20Motion&descSize=13&descAlignY=80&descAlign=50" width="100%"/>
 </a>
+
+<br/><br/>
+
+*Immersive personal portfolio with **3D Spline graphics**, **GSAP scroll animations**, **Framer Motion** transitions, and SSR — live at [kathari-hima-kishore.tech](https://www.kathari-hima-kishore.tech/).*
+
+<br/>
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
+![Framer](https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kathari-Hima-Kishore/Portfolio)
+&nbsp;
+[![Live Site](https://img.shields.io/badge/Live%20Site-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://www.kathari-hima-kishore.tech/)
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/Kathari-Hima-Kishore/CodeForge">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kathari-Hima-Kishore&repo=CodeForge&theme=tokyonight&hide_border=true&show_owner=true" alt="CodeForge"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ea580c&height=60&text=CodeForge&fontSize=26&fontColor=fff&desc=Next.js%20%7C%20Flask%20%7C%20Socket.IO%20%7C%20Firebase%20Auth&descSize=13&descAlignY=80&descAlign=50" width="100%"/>
 </a>
 
-</div>
+<br/><br/>
 
-<div align="center">
+*Real-time **collaborative browser IDE** with multi-language execution, live team chat, pair-programming roles, and secure **Firebase Auth** + ngrok tunnelling.*
+
+<br/>
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kathari-Hima-Kishore/CodeForge)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 <a href="https://github.com/Kathari-Hima-Kishore/AR-3D-Visualizer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kathari-Hima-Kishore&repo=AR-3D-Visualizer&theme=tokyonight&hide_border=true&show_owner=true" alt="AR-3D-Visualizer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0891b2&height=60&text=AR%203D%20Visualizer&fontSize=24&fontColor=fff&desc=React%20%7C%20Node.js%20%7C%20WebAR%20%7C%20Three.js&descSize=13&descAlignY=80&descAlign=50" width="100%"/>
 </a>
+
+<br/><br/>
+
+*Browser-based **Augmented Reality** platform for placing and manipulating **3D models** (GLB/OBJ) in the real world — no native app install required.*
+
+<br/>
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+![WebAR](https://img.shields.io/badge/WebAR-AR.js-00BCD4?style=flat-square&logoColor=white)
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kathari-Hima-Kishore/AR-3D-Visualizer)
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/Kathari-Hima-Kishore/event-management-system-with-firebase">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kathari-Hima-Kishore&repo=event-management-system-with-firebase&theme=tokyonight&hide_border=true&show_owner=true" alt="Event Management System"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=16a34a&height=60&text=Event%20Management%20System&fontSize=21&fontColor=fff&desc=JavaScript%20%7C%20Firebase%20%7C%20HTML5%20%7C%20CSS3&descSize=13&descAlignY=80&descAlign=50" width="100%"/>
 </a>
 
-</div>
+<br/><br/>
 
-<div align="center">
+*Full-featured event management platform with **Firebase real-time database**, authentication, RSVP tracking, and dynamic event listings.*
+
+<br/>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kathari-Hima-Kishore/event-management-system-with-firebase)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
 
 <a href="https://github.com/Kathari-Hima-Kishore/real-time-community-open-chat">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kathari-Hima-Kishore&repo=real-time-community-open-chat&theme=tokyonight&hide_border=true&show_owner=true" alt="Real-Time Community Chat"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=db2777&height=60&text=Real%20Time%20Community%20Chat&fontSize=22&fontColor=fff&desc=Socket.IO%20%7C%20Node.js%20%7C%20JavaScript%20%7C%20CSS&descSize=13&descAlignY=80&descAlign=50" width="50%"/>
 </a>
 
-</div>
+<br/><br/>
+
+*Community-driven **real-time chat platform** for open opinion sharing, built with live **WebSocket** communication and a clean, responsive UI.*
+
+<br/>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Socket.io](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kathari-Hima-Kishore/real-time-community-open-chat)
+
+</td>
+</tr>
+</table>
 
 ---
 
