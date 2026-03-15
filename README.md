@@ -49,57 +49,54 @@
 <td width="50%" valign="top" align="center">
 
 <!-- PROJECT 1 — PORTFOLIO -->
-<img src="https://skillicons.dev/icons?i=nextjs,ts,gsap" height="48" alt="Next.js, TypeScript, GSAP"/>
-
-<br/><br/>
-
 <a href="https://github.com/Kathari-Hima-Kishore/Portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kathari-Hima-Kishore&repo=Portfolio&bg_color=000C40&border_color=1565C0&title_color=90CAF9&text_color=E3F2FD&icon_color=4169E1" width="100%" alt="Portfolio Repository"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:071E3D,50:1565C0,100:071E3D&height=90&text=Portfolio&fontSize=30&fontColor=E3F2FD&fontAlignY=42&desc=Next.js+%7C+TypeScript+%7C+GSAP+%7C+Framer+Motion&descSize=13&descAlignY=74&descColor=90CAF9" width="100%" alt="Portfolio"/>
 </a>
 
-<br/><br/>
+<br/>
 
-Immersive personal portfolio with **3D Spline graphics**, **GSAP scroll animations**, **Framer Motion** transitions and SSR
+Immersive portfolio with **3D Spline graphics**, **GSAP animations**, and SSR — live at [kathari-hima-kishore.tech](https://www.kathari-hima-kishore.tech/)
 
 <br/>
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=ffffff)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=000000)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=ffffff)
-
-<br/>
-
-[![Code](https://img.shields.io/badge/View_Code-0d1117?style=for-the-badge&logo=github&logoColor=90CAF9)](https://github.com/Kathari-Hima-Kishore/Portfolio)
+![Stars](https://img.shields.io/github/stars/Kathari-Hima-Kishore/Portfolio?style=flat-square&color=1565C0&labelColor=071E3D)
+![Language](https://img.shields.io/github/languages/top/Kathari-Hima-Kishore/Portfolio?style=flat-square&color=1565C0&labelColor=071E3D)
 &nbsp;
-[![Live](https://img.shields.io/badge/Live_Site-000C40?style=for-the-badge&logo=vercel&logoColor=90CAF9)](https://www.kathari-hima-kishore.tech/)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=000)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=fff)
+
+<br/>
+
+[![View Code](https://img.shields.io/badge/View_Code-071E3D?style=for-the-badge&logo=github&logoColor=90CAF9)](https://github.com/Kathari-Hima-Kishore/Portfolio)&nbsp;
+[![Live Site](https://img.shields.io/badge/Live_Site-1565C0?style=for-the-badge&logo=vercel&logoColor=fff)](https://www.kathari-hima-kishore.tech/)
 
 </td>
 <td width="50%" valign="top" align="center">
 
 <!-- PROJECT 2 — CODEFORGE -->
-<img src="https://skillicons.dev/icons?i=nextjs,flask,firebase" height="48" alt="Next.js, Flask, Firebase"/>
-
-<br/><br/>
-
 <a href="https://github.com/Kathari-Hima-Kishore/CodeForge">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kathari-Hima-Kishore&repo=CodeForge&bg_color=000C40&border_color=1565C0&title_color=90CAF9&text_color=E3F2FD&icon_color=4169E1" width="100%" alt="CodeForge Repository"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001A1A,50:007C91,100:001A1A&height=90&text=CodeForge&fontSize=30&fontColor=E0F7FA&fontAlignY=42&desc=Next.js+%7C+Flask+%7C+Socket.IO+%7C+Firebase+Auth&descSize=13&descAlignY=74&descColor=80DEEA" width="100%" alt="CodeForge"/>
 </a>
 
-<br/><br/>
+<br/>
 
-Real-time **collaborative browser IDE** with multi-language execution, live team chat, pair-programming roles, and secure **Firebase Auth**
+Real-time **collaborative browser IDE** with multi-language execution, live team chat, and **Firebase Auth** security
 
 <br/>
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=ffffff)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=ffffff)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=ffffff)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000000)
+![Stars](https://img.shields.io/github/stars/Kathari-Hima-Kishore/CodeForge?style=flat-square&color=007C91&labelColor=001A1A)
+![Language](https://img.shields.io/github/languages/top/Kathari-Hima-Kishore/CodeForge?style=flat-square&color=007C91&labelColor=001A1A)
+&nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=fff)
+![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=fff)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=fff)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000)
 
 <br/>
 
-[![Code](https://img.shields.io/badge/View_Code-0d1117?style=for-the-badge&logo=github&logoColor=90CAF9)](https://github.com/Kathari-Hima-Kishore/CodeForge)
+[![View Code](https://img.shields.io/badge/View_Code-001A1A?style=for-the-badge&logo=github&logoColor=80DEEA)](https://github.com/Kathari-Hima-Kishore/CodeForge)
 
 </td>
 </tr>
@@ -107,97 +104,81 @@ Real-time **collaborative browser IDE** with multi-language execution, live team
 <td width="50%" valign="top" align="center">
 
 <!-- PROJECT 3 — AR 3D VISUALIZER -->
-<img src="https://skillicons.dev/icons?i=react,nodejs,threejs" height="48" alt="React, Node.js, Three.js"/>
-
-<br/><br/>
-
 <a href="https://github.com/Kathari-Hima-Kishore/AR-3D-Visualizer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kathari-Hima-Kishore&repo=AR-3D-Visualizer&bg_color=000C40&border_color=1565C0&title_color=90CAF9&text_color=E3F2FD&icon_color=4169E1" width="100%" alt="AR 3D Visualizer Repository"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0026,50:6200EA,100:0D0026&height=90&text=AR+3D+Visualizer&fontSize=26&fontColor=EDE7F6&fontAlignY=42&desc=React+%7C+Node.js+%7C+Three.js+%7C+AR.js&descSize=13&descAlignY=74&descColor=CE93D8" width="100%" alt="AR 3D Visualizer"/>
 </a>
-
-<br/><br/>
-
-Browser-based **Augmented Reality** platform for placing and manipulating **3D models** (GLB/OBJ) in the real world — zero native app install
 
 <br/>
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=ffffff)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=ffffff)
+Browser-based **Augmented Reality** platform for placing **3D models** (GLB/OBJ) in the real world — zero native-app install required
+
+<br/>
+
+![Stars](https://img.shields.io/github/stars/Kathari-Hima-Kishore/AR-3D-Visualizer?style=flat-square&color=6200EA&labelColor=0D0026)
+![Language](https://img.shields.io/github/languages/top/Kathari-Hima-Kishore/AR-3D-Visualizer?style=flat-square&color=6200EA&labelColor=0D0026)
+&nbsp;
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=fff)
+![Three.js](https://img.shields.io/badge/Three.js-000?style=flat-square&logo=three.js&logoColor=fff)
 ![AR.js](https://img.shields.io/badge/AR.js-00BCD4?style=flat-square)
 
 <br/>
 
-[![Code](https://img.shields.io/badge/View_Code-0d1117?style=for-the-badge&logo=github&logoColor=90CAF9)](https://github.com/Kathari-Hima-Kishore/AR-3D-Visualizer)
+[![View Code](https://img.shields.io/badge/View_Code-0D0026?style=for-the-badge&logo=github&logoColor=CE93D8)](https://github.com/Kathari-Hima-Kishore/AR-3D-Visualizer)
 
 </td>
 <td width="50%" valign="top" align="center">
 
 <!-- PROJECT 4 — EVENT MANAGEMENT -->
-<img src="https://skillicons.dev/icons?i=js,firebase,html,css" height="48" alt="JavaScript, Firebase, HTML, CSS"/>
-
-<br/><br/>
-
 <a href="https://github.com/Kathari-Hima-Kishore/event-management-system-with-firebase">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kathari-Hima-Kishore&repo=event-management-system-with-firebase&bg_color=000C40&border_color=1565C0&title_color=90CAF9&text_color=E3F2FD&icon_color=4169E1" width="100%" alt="Event Management Repository"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A0500,50:BF360C,100:1A0500&height=90&text=Event+Management&fontSize=26&fontColor=FBE9E7&fontAlignY=42&desc=JavaScript+%7C+Firebase+%7C+HTML5+%7C+CSS3&descSize=13&descAlignY=74&descColor=FFAB91" width="100%" alt="Event Management"/>
 </a>
 
-<br/><br/>
+<br/>
 
 Full-featured event platform with **Firebase real-time database**, authentication, RSVP tracking, and dynamic event listings
 
 <br/>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000000)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=ffffff)
+![Stars](https://img.shields.io/github/stars/Kathari-Hima-Kishore/event-management-system-with-firebase?style=flat-square&color=BF360C&labelColor=1A0500)
+![Language](https://img.shields.io/github/languages/top/Kathari-Hima-Kishore/event-management-system-with-firebase?style=flat-square&color=BF360C&labelColor=1A0500)
+&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff)
 
 <br/>
 
-[![Code](https://img.shields.io/badge/View_Code-0d1117?style=for-the-badge&logo=github&logoColor=90CAF9)](https://github.com/Kathari-Hima-Kishore/event-management-system-with-firebase)
+[![View Code](https://img.shields.io/badge/View_Code-1A0500?style=for-the-badge&logo=github&logoColor=FFAB91)](https://github.com/Kathari-Hima-Kishore/event-management-system-with-firebase)
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top" align="center">
+<td colspan="2" align="center">
 
 <!-- PROJECT 5 — REAL-TIME CHAT -->
-<img src="https://skillicons.dev/icons?i=nodejs,js,css" height="48" alt="Node.js, JavaScript, CSS"/>
-
-<br/><br/>
-
 <a href="https://github.com/Kathari-Hima-Kishore/real-time-community-open-chat">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kathari-Hima-Kishore&repo=real-time-community-open-chat&bg_color=000C40&border_color=1565C0&title_color=90CAF9&text_color=E3F2FD&icon_color=4169E1" width="100%" alt="Real-Time Community Chat Repository"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A0010,50:880E4F,100:1A0010&height=90&text=Community+Chat&fontSize=28&fontColor=FCE4EC&fontAlignY=42&desc=Socket.IO+%7C+Node.js+%7C+JavaScript+%7C+CSS&descSize=13&descAlignY=74&descColor=F48FB1" width="50%" alt="Community Chat"/>
 </a>
-
-<br/><br/>
-
-Community-driven **real-time chat platform** for open opinion sharing, built with live **WebSocket** communication and a responsive UI
 
 <br/>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=ffffff)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=ffffff)
+Community-driven **real-time chat platform** built with live **WebSocket** communication for open opinion sharing — clean, responsive UI
 
 <br/>
 
-[![Code](https://img.shields.io/badge/View_Code-0d1117?style=for-the-badge&logo=github&logoColor=90CAF9)](https://github.com/Kathari-Hima-Kishore/real-time-community-open-chat)
+![Stars](https://img.shields.io/github/stars/Kathari-Hima-Kishore/real-time-community-open-chat?style=flat-square&color=880E4F&labelColor=1A0010)
+![Language](https://img.shields.io/github/languages/top/Kathari-Hima-Kishore/real-time-community-open-chat?style=flat-square&color=880E4F&labelColor=1A0010)
+&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=fff)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff)
 
-</td>
-<td width="50%" valign="top" align="center">
+<br/>
 
-<br/><br/>
-
-<a href="https://github.com/Kathari-Hima-Kishore?tab=repositories">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000C40,50:0d1b5e,100:000C40&height=130&text=More+Projects&fontSize=22&fontColor=90CAF9&fontAlignY=45&desc=Explore+all+repositories&descSize=14&descAlignY=72&descColor=7986CB" width="100%" alt="Explore More Repositories"/>
-</a>
-
-<br/><br/>
-
-[![View All Repos](https://img.shields.io/badge/View_All_Repositories-000C40?style=for-the-badge&logo=github&logoColor=90CAF9)](https://github.com/Kathari-Hima-Kishore?tab=repositories)
+[![View Code](https://img.shields.io/badge/View_Code-1A0010?style=for-the-badge&logo=github&logoColor=F48FB1)](https://github.com/Kathari-Hima-Kishore/real-time-community-open-chat)
 
 </td>
 </tr>
@@ -303,31 +284,7 @@ Community-driven **real-time chat platform** for open opinion sharing, built wit
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kathari-Hima-Kishore&theme=tokyonight" width="95%" alt="GitHub Profile Summary"/>
-
-</div>
-
-<div align="center">
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kathari-Hima-Kishore&theme=algolia&no-frame=false&no-bg=true&margin-w=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br/>
-
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ ROYAL BLUE LINE ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000C40,50:1565C0,100:000C40&height=2" width="100%" alt=""/>
-
-<br/>
-
-<!-- ████████████████ CONTRIBUTION ACTIVITY ████████████████ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000C40,40:0d1b5e,100:000C40&height=42&text=Contribution+Activity&fontSize=17&fontColor=90CAF9&fontAlignY=68" width="100%" alt="Contribution Activity"/>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kathari-Hima-Kishore&bg_color=000C40&color=90CAF9&line=1565C0&point=4169E1&area=true&area_color=0d1b5e&hide_border=false&border_color=1565C0" width="95%" alt="GitHub Contribution Activity Graph"/>
 
 </div>
 
