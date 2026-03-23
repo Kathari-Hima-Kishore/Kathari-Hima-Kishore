@@ -9,7 +9,7 @@
 <br/><br>
 
 <!-- ████████████████ PROFILE BADGES ████████████████ -->
-<img src="https://komarev.com/ghpvc/?username=Kathari-Hima-Kishore&label=VISITORS&color=1565C0&style=for-the-badge&labelColor=000C40" alt="profile views"/>
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKathari-Hima-Kishore&count_bg=%231565C0&title_bg=%23000C40&icon=&icon_color=%23E7E7E7&title=VISITORS&edge_flat=false" alt="profile views"/>
 &nbsp;&nbsp;
 <a href="https://www.kathari-hima-kishore.tech/"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT_SITE-1565C0?style=for-the-badge&labelColor=000C40&logo=googlechrome&logoColor=90CAF9" alt="Portfolio" /></a>
 
