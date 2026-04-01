@@ -110,13 +110,13 @@
 <h2 align="center"> 📊 GitHub Analytics </h2>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Kathari-Hima-Kishore&background=000C40&border=000C40&stroke=1565C0&ring=4169E1&fire=1565C0&currStreakLabel=90CAF9&sideLabels=90CAF9&dates=E3F2FD&currStreakNum=E3F2FD&sideNums=E3F2FD" alt="GitHub Streak" width="70%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kathari-Hima-Kishore&background=000C40&border=000C40&stroke=1565C0&ring=4169E1&fire=1565C0&currStreakLabel=90CAF9&sideLabels=90CAF9&dates=E3F2FD&currStreakNum=E3F2FD&sideNums=E3F2FD" alt="GitHub Streak" width="70%"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kathari-Hima-Kishore&bg_color=000C40&border_color=000C40&title_color=90CAF9&text_color=E3F2FD&icon_color=4169E1&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&ring_color=4169E1" height="170" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kathari-Hima-Kishore&bg_color=000C40&border_color=000C40&title_color=90CAF9&text_color=E3F2FD&icon_color=4169E1&hide_border=false&include_all_commits=true&show_icons=true&ring_color=4169E1" height="170" alt="GitHub Stats"/>
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kathari-Hima-Kishore&bg_color=000C40&border_color=000C40&title_color=90CAF9&text_color=E3F2FD&hide_border=false&layout=compact&langs_count=8" height="170" alt="Top Languages"/>
 </div>
