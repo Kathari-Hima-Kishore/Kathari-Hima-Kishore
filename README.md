@@ -9,7 +9,7 @@
 <br/><br>
 
 <!-- ████████████████ PROFILE BADGES (RESET VISITOR COUNT) ████████████████ -->
-<img src="https://hits.sh/github.com/Kathari-Hima-Kishore/profile_views.svg?style=for-the-badge&label=VISITORS&color=1565C0&labelColor=000C40" alt="profile views"/>
+<img src="https://hits.sh/github.com/Kathari-Hima-Kishore/profile_views_v1.svg?style=for-the-badge&label=VISITORS&color=1565C0&labelColor=000C40" alt="profile views"/>
 &nbsp;&nbsp;
 <a href="https://www.kathari-hima-kishore.tech/"><img src="https://img.shields.io/badge/PORTFOLIO-VIEW_LIVE-%231565C0?style=for-the-badge&labelColor=000C40&logo=vercel&logoColor=E3F2FD" alt="Portfolio" /></a>
 
@@ -41,7 +41,6 @@
       <br/><br/>
       <h3 style="color: #90CAF9;">✨ Immersive 3D Portfolio</h3>
       <p>Interactive portfolio with <strong>3D Spline graphics</strong>, <strong>GSAP</strong> and SSR</p>
-      <img src="https://img.shields.io/github/stars/Kathari-Hima-Kishore/Portfolio?style=flat-square&color=1565C0&labelColor=000C40" alt="Stars"/>
       <br/><br/>
       <a href="https://github.com/Kathari-Hima-Kishore/Portfolio"><img src="https://img.shields.io/badge/Source-000C40?style=for-the-badge&logo=github&logoColor=90CAF9" alt="View Code"/></a>
       <a href="https://www.kathari-hima-kishore.tech/"><img src="https://img.shields.io/badge/Live-1565C0?style=for-the-badge&logo=vercel&logoColor=fff" alt="Live Site"/></a>
@@ -52,7 +51,6 @@
       <br/><br/>
       <h3 style="color: #90CAF9;">⚡ CodeForge</h3>
       <p>Real-time <strong>collaborative IDE</strong> with multi-language execution</p>
-      <img src="https://img.shields.io/github/stars/Kathari-Hima-Kishore/CodeForge?style=flat-square&color=1565C0&labelColor=000C40" alt="Stars"/>
       <br/><br/>
       <a href="https://github.com/Kathari-Hima-Kishore/CodeForge"><img src="https://img.shields.io/badge/Source-000C40?style=for-the-badge&logo=github&logoColor=90CAF9" alt="View Code"/></a>
     </td>
@@ -64,9 +62,9 @@
       <br/><br/>
       <h3 style="color: #90CAF9;">🥽 AR Visualizer</h3>
       <p>Browser-based <strong>Augmented Reality</strong> platform for 3D models</p>
-      <img src="https://img.shields.io/github/stars/Kathari-Hima-Kishore/AR-3D-Visualizer?style=flat-square&color=1565C0&labelColor=000C40" alt="Stars"/>
       <br/><br/>
       <a href="https://github.com/Kathari-Hima-Kishore/AR-3D-Visualizer"><img src="https://img.shields.io/badge/Source-000C40?style=for-the-badge&logo=github&logoColor=90CAF9" alt="View Code"/></a>
+      <a href="https://ar-3d-visualizer.onrender.com/"><img src="https://img.shields.io/badge/Live-1565C0?style=for-the-badge&logo=render&logoColor=fff" alt="Live Site"/></a>
     </td>
     <td width="4%" style="border: none;"></td>
     <td width="48%" align="center" style="padding: 20px; background-color: #040914; border-radius: 20px; border: 1px solid #1565C0;">
@@ -74,9 +72,9 @@
       <br/><br/>
       <h3 style="color: #90CAF9;">📅 Event Manager</h3>
       <p>Event platform with <strong>Firebase Real-time DB</strong> &amp; authentication</p>
-      <img src="https://img.shields.io/github/stars/Kathari-Hima-Kishore/event-management-system-with-firebase?style=flat-square&color=1565C0&labelColor=000C40" alt="Stars"/>
       <br/><br/>
       <a href="https://github.com/Kathari-Hima-Kishore/event-management-system-with-firebase"><img src="https://img.shields.io/badge/Source-000C40?style=for-the-badge&logo=github&logoColor=90CAF9" alt="View Code"/></a>
+      <a href="https://event-management-system-with-firebase.onrender.com/"><img src="https://img.shields.io/badge/Live-1565C0?style=for-the-badge&logo=render&logoColor=fff" alt="Live Site"/></a>
     </td>
   </tr>
   <tr style="height: 20px;"><td colspan="3"></td></tr>
@@ -86,9 +84,9 @@
       <br/><br/>
       <h3 style="color: #90CAF9;">💬 Community Chat</h3>
       <p>Real-time chat platform with live <strong>WebSocket</strong> communication</p>
-      <img src="https://img.shields.io/github/stars/Kathari-Hima-Kishore/real-time-community-open-chat?style=flat-square&color=1565C0&labelColor=000C40" alt="Stars"/>
       <br/><br/>
       <a href="https://github.com/Kathari-Hima-Kishore/real-time-community-open-chat"><img src="https://img.shields.io/badge/Source-000C40?style=for-the-badge&logo=github&logoColor=90CAF9" alt="View Code"/></a>
+      <a href="https://kathari-hima-kishore.github.io/real-time-community-open-chat/"><img src="https://img.shields.io/badge/Live-1565C0?style=for-the-badge&logo=github&logoColor=fff" alt="Live Site"/></a>
     </td>
   </tr>
 </table>
