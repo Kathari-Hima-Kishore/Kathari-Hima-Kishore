@@ -4,12 +4,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000C40,30:1a237e,65:1565C0,100:000C40&height=240&section=header&text=Kathari%20Hima%20Kishore&fontSize=50&fontColor=E3F2FD&animation=twinkling&fontAlignY=40&desc=Full-Stack%20Cloud%20Developer&descAlignY=62&descSize=22&descColor=90CAF9" width="100%" alt="Kathari Hima Kishore - Full-Stack Cloud Developer"/>
 
 <!-- ████████████████ TYPING ANIMATION ████████████████ -->
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&duration=2500&pause=600&color=4169E1&center=true&vCenter=true&width=780&lines=Hey!+I%27m+Kathari+Hima+Kishore;A+Full-Stack+Cloud+Developer;Building+elegant+solutions+to+complex+problems;React+%7C+Next.js+%7C+Node.js+%7C+Cloud;Always+learning%2C+always+shipping" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=600&color=4169E1&center=true&vCenter=true&width=780&lines=Hey!+I%27m+Kathari+Hima+Kishore;A+Full-Stack+Cloud+Developer;Building+real-world+solutions+with+optimal+approach;React+%7C+Next.js+%7C+Node.js+%7C+Azure+%7C+Firebase+%7C+Docker;Open+to+collaborate;Learning%2C+exploring%2C+always+delivering" alt="Typing SVG"/>
 
 <br/><br>
 
 <!-- ████████████████ PROFILE BADGES (RESET VISITOR COUNT) ████████████████ -->
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKathari-Hima-Kishore%2Fprofile_v3&count_bg=%231565C0&title_bg=%23000C40&icon=&icon_color=%23E3F2FD&title=VISITORS&edge_flat=false" alt="profile views"/>
+<img src="https://hits.sh/github.com/Kathari-Hima-Kishore/profile_views.svg?style=for-the-badge&label=VISITORS&color=1565C0&labelColor=000C40" alt="profile views"/>
 &nbsp;&nbsp;
 <a href="https://www.kathari-hima-kishore.tech/"><img src="https://img.shields.io/badge/PORTFOLIO-VIEW_LIVE-%231565C0?style=for-the-badge&labelColor=000C40&logo=vercel&logoColor=E3F2FD" alt="Portfolio" /></a>
 
@@ -20,28 +20,12 @@
 <!-- ████████████████ ABOUT ME ████████████████ -->
 <h2 align="center"> 🚀 About Me </h2>
 
-<div align="center">
-  <blockquote>
-    <p>I am a passionate developer who loves bridging the gap between elegant frontend interfaces and robust backend architectures.</p>
-  </blockquote>
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" style="padding: 15px;">
-        <strong>💻 Current Focus:</strong> Full-stack web apps solving real issues<br/><br/>
-        <strong>📚 Learning:</strong> System design, advanced cloud patterns<br/><br/>
-        <strong>🤝 Collaboration:</strong> Open to SaaS or open-source projects
-      </td>
-      <td width="50%" style="padding: 15px;">
-        <strong>📬 Reach Out:</strong> If you need a scalable cloud architect<br/><br/>
-        <strong>💡 Ask Me About:</strong> Next.js, Cloud Run, WebSockets<br/><br/>
-        <strong>☕ Fun Fact:</strong> I code best with lo-fi music & strong coffee
-      </td>
-    </tr>
-  </table>
-</div>
+- 🔭 **Currently working on** — Full-stack web apps and personal projects that solve real-world problems
+- 🌱 **Currently learning** — Advanced system design, cloud deployment, and modern frameworks
+- 👯 **Looking to collaborate on** — Meaningful open-source projects and freelance opportunities
+- 🤝 **Looking for help with** — Connecting with clients and teams who need a reliable full-stack cloud developer
+- 💬 **Ask me about** — Building scalable web apps, picking the right tech stack, or full-stack dev
+- ⚡ **Fun fact** — I debug best with coffee and lo-fi music in the background
 
 <br/>
 
