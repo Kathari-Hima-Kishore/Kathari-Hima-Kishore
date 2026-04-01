@@ -64,7 +64,7 @@
       <p>Browser-based <strong>Augmented Reality</strong> platform for 3D models</p>
       <br/><br/>
       <a href="https://github.com/Kathari-Hima-Kishore/AR-3D-Visualizer"><img src="https://img.shields.io/badge/Source-000C40?style=for-the-badge&logo=github&logoColor=90CAF9" alt="View Code"/></a>
-      <a href="https://ar-3d-visualizer.onrender.com/"><img src="https://img.shields.io/badge/Live-1565C0?style=for-the-badge&logo=render&logoColor=fff" alt="Live Site"/></a>
+      <a href="https://arobjectvisualizer.vercel.app/"><img src="https://img.shields.io/badge/Live-1565C0?style=for-the-badge&logo=vercel&logoColor=fff" alt="Live Site"/></a>
     </td>
     <td width="4%" style="border: none;"></td>
     <td width="48%" align="center" style="padding: 20px; background-color: #040914; border-radius: 20px; border: 1px solid #1565C0;">
@@ -74,7 +74,7 @@
       <p>Event platform with <strong>Firebase Real-time DB</strong> &amp; authentication</p>
       <br/><br/>
       <a href="https://github.com/Kathari-Hima-Kishore/event-management-system-with-firebase"><img src="https://img.shields.io/badge/Source-000C40?style=for-the-badge&logo=github&logoColor=90CAF9" alt="View Code"/></a>
-      <a href="https://event-management-system-with-firebase.onrender.com/"><img src="https://img.shields.io/badge/Live-1565C0?style=for-the-badge&logo=render&logoColor=fff" alt="Live Site"/></a>
+      <a href="https://event-management-system-with-fireba.vercel.app/"><img src="https://img.shields.io/badge/Live-1565C0?style=for-the-badge&logo=vercel&logoColor=fff" alt="Live Site"/></a>
     </td>
   </tr>
   <tr style="height: 20px;"><td colspan="3"></td></tr>
