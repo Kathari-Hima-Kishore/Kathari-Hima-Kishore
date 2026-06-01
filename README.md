@@ -9,7 +9,7 @@
 <br/><br>
 
 <!-- ████████████████ PROFILE BADGES (RESET VISITOR COUNT) ████████████████ -->
-<img src="https://hits.sh/github.com/Kathari-Hima-Kishore/profile_views_v2.svg?style=for-the-badge&label=VISITORS&color=1565C0&labelColor=000C40" alt="profile views"/>
+<img src="https://hits.sh/github.com/Kathari-Hima-Kishore/profile_views_v-2.svg?style=for-the-badge&label=VISITORS&color=1565C0&labelColor=000C40" alt="profile views"/>
 &nbsp;&nbsp;
 <a href="https://www.kathari-hima-kishore.tech/"><img src="https://img.shields.io/badge/PORTFOLIO-VIEW_LIVE-%231565C0?style=for-the-badge&labelColor=000C40&logo=vercel&logoColor=E3F2FD" alt="Portfolio" /></a>
 
